@@ -20,6 +20,12 @@ I am a passionate developer focused on building intelligent solutions. Currently
 
 ---
 
+---
+
+### 📂 Featured Projects
+- **[Python Learning Journey](https://github.com/murtada-gahlib/Python-Learning-Journey):** 🐍 A collection of 4+ projects showcasing my growth from basic logic to advanced data handling (JSON, Dicts, Algorithms).
+- **[Minecraft AI Addon Bot](https://github.com/murtada-gahlib/minecraft-ai-bot):** 🤖 An automated tool to generate Minecraft items using Gemini AI.
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murtada-gahlib&show_icons=true&theme=dracula&hide_border=true" alt="Murtada's GitHub Stats" />
