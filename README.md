@@ -9,9 +9,7 @@ I am a passionate developer focused on building intelligent solutions. Currently
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
-  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="gemini"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </p>
 
 ---
@@ -36,5 +34,5 @@ I am a passionate developer focused on building intelligent solutions. Currently
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://t.me/YOUR_TELEGRAM_USER" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="murtada-gahlib" /></a>
+<a href="https://t.me/y9yyyo" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="murtada-gahlib" /></a>
 </p>
