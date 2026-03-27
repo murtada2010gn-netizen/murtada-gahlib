@@ -14,8 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murtada-gahlib&show_icons=true&locale=en&layout=compact" alt="murtada-gahlib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murtada-gahlib-80928a3b6&show_icons=true&locale=en&layout=compact" alt="murtada-gahlib-80928a3b6" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murtada-gahlib&show_icons=true&locale=en" alt="murtada-gahlib" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murtada-gahlib-80928a3b6&show_icons=true&locale=en" alt="murtada-gahlib-80928a3b6" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murtada-gahlib&" alt="murtada-gahlib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murtada-gahlib-80928a3b6&" alt="murtada-gahlib-80928a3b6" /></p>
