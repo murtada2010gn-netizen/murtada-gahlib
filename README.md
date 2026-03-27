@@ -15,9 +15,8 @@ I am a passionate developer focused on building intelligent solutions. Currently
 ---
 
 ### 🌱 Learning Journey
-- 🔭 **Currently working on:** Advanced Minecraft Add-on Generator using Gemini AI.
 - 🌱 **Learning:** Computer Vision (OpenCV) & Neural Networks.
-- 💬 **Ask me about:** Python scripting, Telegram Bots, and Automation.
+- 💬 **Ask me about:** Python scripting
 
 ---
 
